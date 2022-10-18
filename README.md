@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Johnocaleb/3-column-preview-card-component](https://github.com/Johnocaleb/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Johnocaleb/3-column-preview-card-component)
+- Live Site URL: [live site URL](https://stunning-bavarois-e06e75.netlify.app/)
 
 ## My process
 
